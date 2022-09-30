@@ -1,7 +1,7 @@
 audioread==2.1.8
 cffi==1.14.0
 decorator==4.4.2
-joblib==0.15.1
+joblib==1.2.0
 librosa==0.6.1
 llvmlite==0.31.0
 numba==0.48.0
