@@ -35,7 +35,7 @@ If you use this code, please cite the following:
 ## Preparation
 
 ### VideoEmotion-8
-* Download the videos [here](https://drive.google.com/drive/u/1/folders/0B5peJ1MHnIWGd3pFbzMyTG5BSGs).
+* Download the videos [here](https://drive.google.com/drive/folders/0B5peJ1MHnIWGd3pFbzMyTG5BSGs?resourcekey=0-hZ1jo5t1hIauRpYhYIvWYA&usp=sharing).
 * Convert from mp4 to jpg files using ```/tools/video2jpg.py```
 * Add n_frames information using ```/tools/n_frames.py```
 * Generate annotation file in json format using ```/tools/ve8_json.py```
