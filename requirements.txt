@@ -16,5 +16,5 @@ six==1.15.0
 SoundFile==0.10.3.post1
 tensorboardX==2.0
 threadpoolctl==2.1.0
-torch==1.4.0+cu100
+torch==1.13.1
 torchvision==0.5.0+cu100
